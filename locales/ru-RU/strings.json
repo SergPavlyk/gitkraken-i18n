@@ -1069,7 +1069,7 @@
     "ContextMenu-ResetSoftWithHint": "Soft — сохранить все изменения",
     "ContextMenu-ResetMixedWithHint": "Mixed — сохранить рабочую копию, но сбросить индекс",
     "ContextMenu-ResetHardWithHint": "Hard — отменить все изменения",
-    "ContextMenu-RevertCommit": "Откатить коммит",
+    "ContextMenu-RevertCommit": "Отменить коммит",
     "ContextMenu-RewordCommit": "Изменить сообщение коммита",
     "ContextMenu-SetUpstream": "Настроить upstream",
     "ContextMenu-ShowAllStashes": "Показать все stash",
